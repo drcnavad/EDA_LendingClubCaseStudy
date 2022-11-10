@@ -8,14 +8,10 @@
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
-<!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- This project uses EDA(Exploratory Data Analysis) to identify the main factors why applicants default the loan.EDA uses Univariate and Bivariate analysis to figure out the driving factors of Loan default. This case study also uses visualizations in form of plot graphs to provide distirbution of data and how one factor is effecting the others.
+- This project uses EDA(Exploratory Data Analysis) to identify the main factors why applicants default the loan. The main emphasize was given on data cleaning, structuring, transformation, and univariate and bivariate analysis with visualizations using Python to figure out the driving factors of Loan default.
 
-
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
 * Applications  with  ‘Higher amounts’ loans (> $15000) should be thoroughly reviewed. 
@@ -36,8 +32,6 @@
 * Loans having higher interest rate have more defaulters. Check the background of applicant thoroughly before calculating interest rates.
 
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
 
 ## Technologies Used
 - Python programming
@@ -45,19 +39,10 @@
 - Github
 
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
 ## Acknowledgements
 
-- This project was inspired by Upgrad Learning platform
+- This project was a part of group study by IIIT Banglore and LJMU's Master in Data Science and AI program.
 
 
 ## Contact
-Created by [ashudobhal] and [Chirag Navadia](https://www.linkedin.com/in/cnavadia/) - feel free to contact me!
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
+Created by [Chirag Navadia](https://www.linkedin.com/in/cnavadia/) and [ashudobhal](https://www.linkedin.com/in/ashutosh-dobhal-3441904b/) - feel free to contact us on LinkedIn!
