@@ -16,20 +16,18 @@
 ## Conclusions
 * Applications  with  ‘Higher amounts’ loans (> $15000) should be thoroughly reviewed. 
 
-* Applications with purpose of loans as 'debt consolidation’ should be closely looked before approving their loan application.
+* Applications with purpose 'debt consolidation’ and grade 'G to B' should be thoroughly reviewed before approving their loan application.
 
-* Lending club should stop approving loans for ‘Small businesses’  as there are good number of defaulters with small businesses.
+* Lending club should raise interest rates or stop loans to ‘Small businesses’ as there are more than 25% of defaulters in this segment.
 
-* While providing loans for term 60 months the club should do a good background check of the applicants. 
+* While providing loans for term 60 months the club should do a background check for public records of the applicants. 
 
-* Public record should be checked for borrowers with higher public record of bankruptcies as they have higher tendency of defaulting the loan.
+* Public record should be checked for all borrowers because borrowers with higher number of public records tend to have a higher default rate.
 
 * It is believed that the large number of open account tend to have higher default rate. However, our analysis did not show significant differences. 
-   There is not enough data to conclude that borrowers with more than 30 accounts tend to have higher default rate.  
+   There is not enough data to conclude that borrowers with more than 30 accounts tend to have higher default rate.
 
-* Low grade loans have high tendency to default. Lending club should examine more information from borrowers before issuing loans to Low grade (G to A).
-
-* Loans having higher interest rate have more defaulters. Check the background of applicant thoroughly before calculating interest rates.
+* Lending club should carefully review interest rate of Low Grades applicants because the Loans having higher interest rate have more defaulters.
 
 
 
