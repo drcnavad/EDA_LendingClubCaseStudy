@@ -53,7 +53,7 @@
 
 
 ## Contact
-Created by [ashudobhal] and [Chirag Navadia] - feel free to contact me!
+Created by [ashudobhal] and [Chirag Navadia](https://www.linkedin.com/in/cnavadia/) - feel free to contact me!
 
 
 <!-- Optional -->
